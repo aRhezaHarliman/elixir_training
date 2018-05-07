@@ -12,11 +12,11 @@ defmodule Myapp do
       :world
 
   """
-  # def hello do
-  #   :world
-  #   # "We need to make this test failed" -> uncomment this one then the test will be failed
-  #   # :goodbye -> uncomment this one then the test will be failed
-  # end
+  def hello do
+    :world
+    # "We need to make this test failed" -> uncomment this one then the test will be failed
+    # :goodbye -> uncomment this one then the test will be failed
+  end
 
   use Application
 
