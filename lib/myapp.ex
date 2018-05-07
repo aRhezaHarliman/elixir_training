@@ -13,8 +13,8 @@ defmodule Myapp do
 
   """
   def hello do
-    # :world
+    :world
     # "We need to make this test failed"
-    :goodbye
+    # :goodbye
   end
 end
